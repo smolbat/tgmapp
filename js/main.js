@@ -10,16 +10,16 @@ let timeShiftArray = [];
 let parsedSongData = [];
 let selectedRow = -1;
 
-// Инициализация Телеграм
-Telegram.WebApp.ready();
-// Расширяем МиниАпп на весь экран
-Telegram.WebApp.expand();
+// // Инициализация Телеграм
+// Telegram.WebApp.ready();
+// // Расширяем МиниАпп на весь экран
+// Telegram.WebApp.expand();
 
-// Show main button
-Telegram.WebApp.MainButton.setParams({
-    text: 'Play'
-});
-Telegram.WebApp.MainButton.show();
+// // Show main button
+// Telegram.WebApp.MainButton.setParams({
+//     text: 'Play'
+// });
+// Telegram.WebApp.MainButton.show();
 
 
 let timeWhenAnimationStops = performance.now();
@@ -66,22 +66,22 @@ $('#mySongList').click(function(event) {
 ////////////////////////////
 //      Аудиомодуль
 ///////////////////////////
-// $('#btnPlay').click(function() {
-//     audioPlayer.paused ? audioPlayer.play() : audioPlayer.pause();
-// });
-
-Telegram.WebApp.MainButton.onClick(function() {
-    if (audioPlayer.paused) {
-        Telegram.WebApp.MainButton.setParams({
-            text: 'Play'
-        });
-    } else {
-        Telegram.WebApp.MainButton.setParams({
-            text: 'Pause'
-        });        
-    }
+$('#btnPlay').click(function() {
     audioPlayer.paused ? audioPlayer.play() : audioPlayer.pause();
 });
+
+// Telegram.WebApp.MainButton.onClick(function() {
+//     if (audioPlayer.paused) {
+//         Telegram.WebApp.MainButton.setParams({
+//             text: 'Play'
+//         });
+//     } else {
+//         Telegram.WebApp.MainButton.setParams({
+//             text: 'Pause'
+//         });        
+//     }
+//     audioPlayer.paused ? audioPlayer.play() : audioPlayer.pause();
+// });
 
 
 // функция, выделяющая строки во время проигрывания песни
