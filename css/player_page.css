@@ -12,6 +12,10 @@
 	
 }
 
+.item-inner {
+	overflow-x: auto;
+}
+
 /*
 #mySongList {
 	pointer-events: none;  
