@@ -1,0 +1,931 @@
+{
+    "id": "9cndmpinp-83cc-486e-8083-dab1715af261",
+    "language_model": "assemblyai_default",
+    "acoustic_model": "assemblyai_default",
+    "language_code": "en_us",
+    "status": "completed",
+    "audio_url": "https://cdn.assemblyai.com/upload/f4745e33-99c3-46fa-a393-9cbd08de73cd",
+    "text": "Love me tender love me sweet. Never let me go. You have made my life complete. And I love you so. Love me tender, love me true. All my dreams fulfilled. For my darling I love you. And I always will. Love me tender love me long take me to your heart for it that I belong and will never part. Love me true all my dreams fulfilled for my Darling I love you and I always will love me tender love me dear tell me you are mine. I'll be yours through all the years till the end of time love me tender love me true all my dreams fulfill for my Darling I love you and I always will. _ _ _ _ _",
+    "transcript": "lʌv mi ˈtɛndə lʌv mi swiːt. ˈnɛvə lɛt mi gəʊ. jʊ həv meɪd maɪ laɪf kəmˈpliːt. ənd aɪ lʌv jʊ səʊ. lʌv mi ˈtɛndə, lʌv mi truː. ɔːl maɪ driːmz fʊlˈfɪld. fə maɪ ˈdɑːlɪŋ aɪ lʌv juː. ənd aɪ ˈɔːlweɪz wɪl. lʌv mi ˈtɛndə lʌv mi lɒŋ teɪk mi tə jə hɑːt fər ɪt ðət aɪ bɪˈlɒŋ ənd wɪl ˈnɛvə pɑːt. lʌv mi ˈtɛndə lʌv mi truː ɔːl maɪ driːmz fʊlˈfɪld fə maɪ ˈdɑːlɪŋ aɪ lʌv jʊ ənd aɪ ˈɔːlweɪz wɪl lʌv mi ˈtɛndə lʌv mi dɪə tɛl mi jʊ ə maɪn. aɪl bi jɔːz θruː ɔːl ðə jɪəz tɪl ði ɛnd əv taɪm lʌv mi ˈtɛndə lʌv mi truː ɔːl maɪ driːmz fʊlˈfɪl fə maɪ ˈdɑːlɪŋ aɪ lʌv jʊ ənd aɪ ˈɔːlweɪz wɪl. _ _ _ _ _",
+    "ru_transcript": "лав ми ˈтендэ лав ми суит. ˈневэ лет ми гоу. ю хэв мейд май лайф кэмˈплит. энд ай лав ю соу. лав ми ˈтендэ, лав ми тру. ол май дримз фулˈфилд. фэ май ˈдалин ай лав ю. энд ай ˈолуэйз уил. лав ми ˈтендэ лав ми лон тейк ми тэ йэ хат фэр ит зэт ай биˈлон энд уил ˈневэ пат. лав ми ˈтендэ лав ми тру ол май дримз фулˈфилд фэ май ˈдалин ай лав ю энд ай ˈолуэйз уил лав ми ˈтендэ лав ми диэ тел ми ю э майн. айл би ёз сру ол зэ йиэз тил зи енд эв тайм лав ми ˈтендэ лав ми тру ол май дримз фулˈфил фэ май ˈдалин ай лав ю энд ай ˈолуэйз уил. _ _ _ _ _",
+    "ru_translate": "Люби меня нежно, люби меня сладко. Никогда_не позволяй мне уйти. Ты сделал _ мою жизнь полной. И я люблю тебя также. Люби меня нежно, люби меня по-настоящему. Все мои мечты сбылись. Потому_что, моя дорогая, я люблю тебя. И я всегда буду(это_делать). Люби меня нежно, люби меня долго, прими меня в свое сердце за то, что я принадлежу_тебе и _ никогда не_расстанусь. Люби меня нежно, люби меня по-настоящему, все мои мечты сбылись, Потому_что моя Дорогая, Я люблю тебя и я всегда буду(любить), люби меня нежно, люби меня, дорогая, скажи мне, что_ты моя. _ Я_буду _ твоим на_протяжении всех лет _ пока_не_придет конец _ времен, _ люби меня нежно, люби меня по-настоящему, все мои мечты сбылись, Потому_что моя Дорогая, Я люблю тебя и я всегда буду(любить). _ _ _ _ _",
+    "words":
+    [
+        {
+            "text": "Love",
+            "start": 3168,
+            "end": 3802,
+            "confidence": 0.81667,
+            "speaker": null
+        },
+        {
+            "text": "me",
+            "start": 3876,
+            "end": 4500,
+            "confidence": 0.91187,
+            "speaker": null
+        },
+        {
+            "text": "tender_",
+            "start": 5190,
+            "end": 6310,
+            "confidence": 0.00036,
+            "speaker": null
+        },
+        {
+            "text": "love",
+            "start": 6750,
+            "end": 7186,
+            "confidence": 0.9673,
+            "speaker": null
+        },
+        {
+            "text": "me",
+            "start": 7248,
+            "end": 7546,
+            "confidence": 0.97027,
+            "speaker": null
+        },
+        {
+            "text": "sweet_",
+            "start": 7608,
+            "end": 8410,
+            "confidence": 0.75893,
+            "speaker": null
+        },
+        {
+            "text": "never",
+            "start": 10050,
+            "end": 10800,
+            "confidence": 0.99959,
+            "speaker": null
+        },
+        {
+            "text": "let",
+            "start": 11370,
+            "end": 11806,
+            "confidence": 0.99976,
+            "speaker": null
+        },
+        {
+            "text": "me",
+            "start": 11868,
+            "end": 12202,
+            "confidence": 0.99863,
+            "speaker": null
+        },
+        {
+            "text": "go_",
+            "start": 12276,
+            "end": 12900,
+            "confidence": 0.99932,
+            "speaker": null
+        },
+        {
+            "text": "you",
+            "start": 15320,
+            "end": 16170,
+            "confidence": 0.76104,
+            "speaker": null
+        },
+        {
+            "text": "have",
+            "start": 16220,
+            "end": 17450,
+            "confidence": 0.83334,
+            "speaker": null
+        },
+        {
+            "text": "_made",
+            "start": 17450,
+            "end": 17900,
+            "confidence": 0.92936,
+            "speaker": null
+        },
+        {
+            "text": "my",
+            "start": 17910,
+            "end": 18360,
+            "confidence": 0.96467,
+            "speaker": null
+        },
+        {
+            "text": "life",
+            "start": 18690,
+            "end": 19306,
+            "confidence": 0.97603,
+            "speaker": null
+        },
+        {
+            "text": "complete_",
+            "start": 19428,
+            "end": 19786,
+            "confidence": 0.99933,
+            "speaker": null
+        },
+        {
+            "text": "and",
+            "start": 21800,
+            "end": 21900,
+            "confidence": 0.75304,
+            "speaker": null
+        },
+        {
+            "text": "I",
+            "start": 22900,
+            "end": 23000,
+            "confidence": 0.92215,
+            "speaker": null
+        },
+        {
+            "text": "love",
+            "start": 23100,
+            "end": 23300,
+            "confidence": 0.91838,
+            "speaker": null
+        },
+        {
+            "text": "you",
+            "start": 23900,
+            "end": 24090,
+            "confidence": 0.99536,
+            "speaker": null
+        },
+        {
+            "text": "so_",
+            "start": 24100,
+            "end": 25060,
+            "confidence": 0.87045,
+            "speaker": null
+        },
+        {
+            "text": "love",
+            "start": 27770,
+            "end": 28278,
+            "confidence": 0.98013,
+            "speaker": null
+        },
+        {
+            "text": "me",
+            "start": 28364,
+            "end": 29000,
+            "confidence": 0.63825,
+            "speaker": null
+        },
+        {
+            "text": "tender_",
+            "start": 29510,
+            "end": 30510,
+            "confidence": 0.0,
+            "speaker": null
+        },
+        {
+            "text": "love",
+            "start": 31610,
+            "end": 32118,
+            "confidence": 0.98352,
+            "speaker": null
+        },
+        {
+            "text": "me",
+            "start": 32204,
+            "end": 32490,
+            "confidence": 0.99295,
+            "speaker": null
+        },
+        {
+            "text": "true_",
+            "start": 32540,
+            "end": 33140,
+            "confidence": 0.74447,
+            "speaker": null
+        },
+        {
+            "text": "all",
+            "start": 34048,
+            "end": 34690,
+            "confidence": 0.37095,
+            "speaker": null
+        },
+        {
+            "text": "my",
+            "start": 35670,
+            "end": 36050,
+            "confidence": 0.00001,
+            "speaker": null
+        },
+        {
+            "text": "dreams",
+            "start": 36210,
+            "end": 37218,
+            "confidence": 0.99436,
+            "speaker": null
+        },
+        {
+            "text": "fulfilled_",
+            "start": 37304,
+            "end": 39940,
+            "confidence": 0.77802,
+            "speaker": null
+        },
+        {
+            "text": "for",
+            "start": 40000,
+            "end": 41100,
+            "confidence": 0.79222,
+            "speaker": null
+        },
+        {
+            "text": "my",
+            "start": 41100,
+            "end": 42200,
+            "confidence": 0.75833,
+            "speaker": null
+        },
+        {
+            "text": "Darling_",
+            "start": 42450,
+            "end": 43690,
+            "confidence": 0.00683,
+            "speaker": null
+        },
+        {
+            "text": "I",
+            "start": 44430,
+            "end": 45046,
+            "confidence": 0.90885,
+            "speaker": null
+        },
+        {
+            "text": "love",
+            "start": 45168,
+            "end": 45526,
+            "confidence": 0.99703,
+            "speaker": null
+        },
+        {
+            "text": "you_",
+            "start": 45588,
+            "end": 46200,
+            "confidence": 0.99905,
+            "speaker": null
+        },
+        {
+            "text": "and",
+            "start": 47430,
+            "end": 48180,
+            "confidence": 0.83451,
+            "speaker": null
+        },
+        {
+            "text": "I",
+            "start": 48510,
+            "end": 49090,
+            "confidence": 0.87265,
+            "speaker": null
+        },
+        {
+            "text": "always",
+            "start": 49200,
+            "end": 49860,
+            "confidence": 0.8468,
+            "speaker": null
+        },
+        {
+            "text": "will_",
+            "start": 50730,
+            "end": 51480,
+            "confidence": 0.83404,
+            "speaker": null
+        },
+        {
+            "text": "Love",
+            "start": 54150,
+            "end": 54422,
+            "confidence": 0.99064,
+            "speaker": null
+        },
+        {
+            "text": "me",
+            "start": 54496,
+            "end": 55120,
+            "confidence": 0.74977,
+            "speaker": null
+        },
+        {
+            "text": "tender_",
+            "start": 55810,
+            "end": 56750,
+            "confidence": 0.58066,
+            "speaker": null
+        },
+        {
+            "text": "love",
+            "start": 57250,
+            "end": 57758,
+            "confidence": 0.93436,
+            "speaker": null
+        },
+        {
+            "text": "me",
+            "start": 57844,
+            "end": 58166,
+            "confidence": 0.93995,
+            "speaker": null
+        },
+        {
+            "text": "long_",
+            "start": 58228,
+            "end": 58840,
+            "confidence": 0.6696,
+            "speaker": null
+        },
+        {
+            "text": "take",
+            "start": 60190,
+            "end": 60734,
+            "confidence": 0.97676,
+            "speaker": null
+        },
+        {
+            "text": "me",
+            "start": 60832,
+            "end": 61480,
+            "confidence": 0.99878,
+            "speaker": null
+        },
+        {
+            "text": "to",
+            "start": 62110,
+            "end": 62546,
+            "confidence": 0.99141,
+            "speaker": null
+        },
+        {
+            "text": "your",
+            "start": 62608,
+            "end": 63014,
+            "confidence": 0.99092,
+            "speaker": null
+        },
+        {
+            "text": "heart_",
+            "start": 63112,
+            "end": 63760,
+            "confidence": 0.61263,
+            "speaker": null
+        },
+        {
+            "text": "for",
+            "start": 66470,
+            "end": 67014,
+            "confidence": 0.94464,
+            "speaker": null
+        },
+        {
+            "text": "it",
+            "start": 67112,
+            "end": 67760,
+            "confidence": 0.70962,
+            "speaker": null
+        },
+        {
+            "text": "that",
+            "start": 69050,
+            "end": 69450,
+            "confidence": 0.99419,
+            "speaker": null
+        },
+        {
+            "text": "I",
+            "start": 69500,
+            "end": 70100,
+            "confidence": 0.99345,
+            "speaker": null
+        },
+        {
+            "text": "belong_",
+            "start": 70490,
+            "end": 71490,
+            "confidence": 0.69057,
+            "speaker": null
+        },
+        {
+            "text": "and",
+            "start": 72770,
+            "end": 73520,
+            "confidence": 0.76341,
+            "speaker": null
+        },
+        {
+            "text": "will",
+            "start": 73970,
+            "end": 74550,
+            "confidence": 0.99032,
+            "speaker": null
+        },
+        {
+            "text": "never",
+            "start": 74660,
+            "end": 75320,
+            "confidence": 0.55367,
+            "speaker": null
+        },
+        {
+            "text": "part_",
+            "start": 75320,
+            "end": 76000,
+            "confidence": 0.55367,
+            "speaker": null
+        },
+        {
+            "text": "Love",
+            "start": 79500,
+            "end": 79800,
+            "confidence": 0.81667,
+            "speaker": null
+        },
+        {
+            "text": "me",
+            "start": 79900,
+            "end": 80500,
+            "confidence": 0.91187,
+            "speaker": null
+        },
+        {
+            "text": "tender_",
+            "start": 81190,
+            "end": 82310,
+            "confidence": 0.00036,
+            "speaker": null
+        },
+        {
+            "text": "love",
+            "start": 82770,
+            "end": 83350,
+            "confidence": 0.99842,
+            "speaker": null
+        },
+        {
+            "text": "me",
+            "start": 83460,
+            "end": 83770,
+            "confidence": 0.9968,
+            "speaker": null
+        },
+        {
+            "text": "true_",
+            "start": 83820,
+            "end": 84420,
+            "confidence": 0.97175,
+            "speaker": null
+        },
+        {
+            "text": "all",
+            "start": 85410,
+            "end": 86160,
+            "confidence": 0.9381,
+            "speaker": null
+        },
+        {
+            "text": "my",
+            "start": 86550,
+            "end": 86986,
+            "confidence": 0.9882,
+            "speaker": null
+        },
+        {
+            "text": "dreams",
+            "start": 87048,
+            "end": 87790,
+            "confidence": 0.87665,
+            "speaker": null
+        },
+        {
+            "text": "fulfilled_",
+            "start": 88230,
+            "end": 89770,
+            "confidence": 0.23617,
+            "speaker": null
+        },
+        {
+            "text": "for",
+            "start": 91990,
+            "end": 92462,
+            "confidence": 0.79222,
+            "speaker": null
+        },
+        {
+            "text": "my",
+            "start": 92536,
+            "end": 93160,
+            "confidence": 0.75833,
+            "speaker": null
+        },
+        {
+            "text": "Darling_",
+            "start": 93970,
+            "end": 94910,
+            "confidence": 0.43532,
+            "speaker": null
+        },
+        {
+            "text": "I",
+            "start": 95710,
+            "end": 96146,
+            "confidence": 0.82603,
+            "speaker": null
+        },
+        {
+            "text": "love",
+            "start": 96208,
+            "end": 96470,
+            "confidence": 0.98016,
+            "speaker": null
+        },
+        {
+            "text": "you_",
+            "start": 96520,
+            "end": 97120,
+            "confidence": 0.74799,
+            "speaker": null
+        },
+        {
+            "text": "and",
+            "start": 98650,
+            "end": 99194,
+            "confidence": 0.75304,
+            "speaker": null
+        },
+        {
+            "text": "I",
+            "start": 99292,
+            "end": 99940,
+            "confidence": 0.92215,
+            "speaker": null
+        },
+        {
+            "text": "always",
+            "start": 100570,
+            "end": 101320,
+            "confidence": 0.91838,
+            "speaker": null
+        },
+        {
+            "text": "will_",
+            "start": 102130,
+            "end": 102880,
+            "confidence": 0.97592,
+            "speaker": null
+        },
+        {
+            "text": "love",
+            "start": 105110,
+            "end": 105618,
+            "confidence": 0.97472,
+            "speaker": null
+        },
+        {
+            "text": "me",
+            "start": 105704,
+            "end": 106340,
+            "confidence": 0.99394,
+            "speaker": null
+        },
+        {
+            "text": "tender_",
+            "start": 107030,
+            "end": 107970,
+            "confidence": 0.76264,
+            "speaker": null
+        },
+        {
+            "text": "love",
+            "start": 108590,
+            "end": 109098,
+            "confidence": 0.88032,
+            "speaker": null
+        },
+        {
+            "text": "me",
+            "start": 109184,
+            "end": 109470,
+            "confidence": 0.9894,
+            "speaker": null
+        },
+        {
+            "text": "dear_",
+            "start": 109520,
+            "end": 110190,
+            "confidence": 0.83921,
+            "speaker": null
+        },
+        {
+            "text": "tell",
+            "start": 111410,
+            "end": 111882,
+            "confidence": 0.98103,
+            "speaker": null
+        },
+        {
+            "text": "me",
+            "start": 111956,
+            "end": 112580,
+            "confidence": 0.80891,
+            "speaker": null
+        },
+        {
+            "text": "you",
+            "start": 113150,
+            "end": 113514,
+            "confidence": 0.63041,
+            "speaker": null
+        },
+        {
+            "text": "are",
+            "start": 113552,
+            "end": 114222,
+            "confidence": 0.56109,
+            "speaker": null
+        },
+        {
+            "text": "_mine._",
+            "start": 114416,
+            "end": 115230,
+            "confidence": 0.47033,
+            "speaker": null
+        },
+        {
+            "text": "I'll",
+            "start": 117750,
+            "end": 118706,
+            "confidence": 0.34378,
+            "speaker": null
+        },
+        {
+            "text": "_be",
+            "start": 118718,
+            "end": 119002,
+            "confidence": 0.64782,
+            "speaker": null
+        },
+        {
+            "text": "yours",
+            "start": 119076,
+            "end": 119966,
+            "confidence": 0.36005,
+            "speaker": null
+        },
+        {
+            "text": "through",
+            "start": 120158,
+            "end": 120622,
+            "confidence": 0.57155,
+            "speaker": null
+        },
+        {
+            "text": "all",
+            "start": 120696,
+            "end": 121320,
+            "confidence": 0.65033,
+            "speaker": null
+        },
+        {
+            "text": "the",
+            "start": 121770,
+            "end": 122134,
+            "confidence": 0.83063,
+            "speaker": null
+        },
+        {
+            "text": "_years_",
+            "start": 122172,
+            "end": 122760,
+            "confidence": 0.68939,
+            "speaker": null
+        },
+        {
+            "text": "till",
+            "start": 123750,
+            "end": 124286,
+            "confidence": 0.82618,
+            "speaker": null
+        },
+        {
+            "text": "the",
+            "start": 124358,
+            "end": 125026,
+            "confidence": 0.98752,
+            "speaker": null
+        },
+        {
+            "text": "_end",
+            "start": 125208,
+            "end": 125698,
+            "confidence": 0.63211,
+            "speaker": null
+        },
+        {
+            "text": "of",
+            "start": 125784,
+            "end": 126466,
+            "confidence": 0.55921,
+            "speaker": null
+        },
+        {
+            "text": "_time_",
+            "start": 126648,
+            "end": 127380,
+            "confidence": 0.93885,
+            "speaker": null
+        },
+        {
+            "text": "love",
+            "start": 129910,
+            "end": 130418,
+            "confidence": 0.96066,
+            "speaker": null
+        },
+        {
+            "text": "me",
+            "start": 130504,
+            "end": 131140,
+            "confidence": 0.99412,
+            "speaker": null
+        },
+        {
+            "text": "tender_",
+            "start": 131650,
+            "end": 132590,
+            "confidence": 0.86431,
+            "speaker": null
+        },
+        {
+            "text": "love",
+            "start": 133570,
+            "end": 134114,
+            "confidence": 0.99474,
+            "speaker": null
+        },
+        {
+            "text": "me",
+            "start": 134212,
+            "end": 134546,
+            "confidence": 0.99534,
+            "speaker": null
+        },
+        {
+            "text": "true_",
+            "start": 134608,
+            "end": 135220,
+            "confidence": 0.9381,
+            "speaker": null
+        },
+        {
+            "text": "all",
+            "start": 136090,
+            "end": 136840,
+            "confidence": 0.97175,
+            "speaker": null
+        },
+        {
+            "text": "my",
+            "start": 137230,
+            "end": 137666,
+            "confidence": 0.98299,
+            "speaker": null
+        },
+        {
+            "text": "dreams",
+            "start": 137728,
+            "end": 138470,
+            "confidence": 0.46289,
+            "speaker": null
+        },
+        {
+            "text": "fulfilled_",
+            "start": 139270,
+            "end": 140210,
+            "confidence": 0.78052,
+            "speaker": null
+        },
+        {
+            "text": "for",
+            "start": 142550,
+            "end": 143022,
+            "confidence": 0.9782,
+            "speaker": null
+        },
+        {
+            "text": "my",
+            "start": 143096,
+            "end": 143720,
+            "confidence": 0.94033,
+            "speaker": null
+        },
+        {
+            "text": "Darling_",
+            "start": 144350,
+            "end": 145410,
+            "confidence": 0.40048,
+            "speaker": null
+        },
+        {
+            "text": "I",
+            "start": 146270,
+            "end": 146634,
+            "confidence": 0.81769,
+            "speaker": null
+        },
+        {
+            "text": "love",
+            "start": 146672,
+            "end": 146982,
+            "confidence": 0.71536,
+            "speaker": null
+        },
+        {
+            "text": "you_",
+            "start": 147056,
+            "end": 147680,
+            "confidence": 0.96871,
+            "speaker": null
+        },
+        {
+            "text": "and",
+            "start": 149270,
+            "end": 150030,
+            "confidence": 0.85976,
+            "speaker": null
+        },
+        {
+            "text": "I",
+            "start": 150200,
+            "end": 150750,
+            "confidence": 0.51215,
+            "speaker": null
+        },
+        {
+            "text": "always",
+            "start": 150860,
+            "end": 151020,
+            "confidence": 0.95686,
+            "speaker": null
+        },
+        {
+            "text": "will._",
+            "start": 153420,
+            "end": 155020,
+            "confidence": 0.95686,
+            "speaker": null
+        }
+    ],
+    "utterances": null,
+    "confidence": 0.810453333333333,
+    "audio_duration": 161,
+    "punctuate": true,
+    "format_text": true,
+    "dual_channel": null,
+    "webhook_url": null,
+    "webhook_status_code": null,
+    "speed_boost": false,
+    "auto_highlights_result": null,
+    "auto_highlights": false,
+    "audio_start_from": null,
+    "audio_end_at": null,
+    "word_boost":
+    [],
+    "boost_param": null,
+    "filter_profanity": false,
+    "redact_pii": false,
+    "redact_pii_audio": false,
+    "redact_pii_audio_quality": null,
+    "redact_pii_policies": null,
+    "redact_pii_sub": null,
+    "speaker_labels": false,
+    "content_safety": false,
+    "iab_categories": false,
+    "content_safety_labels":
+    {
+        "status": "unavailable",
+        "results":
+        [],
+        "summary":
+        {}
+    },
+    "iab_categories_result":
+    {
+        "status": "unavailable",
+        "results":
+        [],
+        "summary":
+        {}
+    },
+    "disfluencies": false,
+    "sentiment_analysis": false,
+    "auto_chapters": false,
+    "chapters": null,
+    "sentiment_analysis_results": null,
+    "entity_detection": false,
+    "entities": null
+}
