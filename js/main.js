@@ -12,6 +12,8 @@ let selectedRow = -1;
 
 // Инициализация Телеграм
 Telegram.WebApp.ready();
+// Расширяем МиниАпп на весь экран
+Telegram.WebApp.expand()
 
 // Show main button
 Telegram.WebApp.MainButton.setParams({
