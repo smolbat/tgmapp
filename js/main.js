@@ -69,7 +69,7 @@ $('#mySongList').click(function(event) {
 // });
 
 Telegram.WebApp.MainButton.onClick(function() {
-    if (audioPlayer.paused) {
+    if (!audioPlayer.paused) {
         Telegram.WebApp.MainButton.setParams({
             text: 'Play'
         });
