@@ -43,7 +43,7 @@ ul {
 
 #btnPlay {
     position: fixed;
-    bottom: 15px;
+    top: 10px;
     right: 10px;
     z-index: 2;
     width: 140px;
@@ -58,7 +58,7 @@ ul {
 
 #btnPhonetics {
     position: fixed;
-    right: 10px;
+    left: 10px;
     top: 10px;
     width: 140px;
     height: 40px;

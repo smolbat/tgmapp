@@ -68,7 +68,7 @@ $('#mySongList').click(function(event) {
 ///////////////////////////
 $('#btnPlay').click(function() {
     audioPlayer.paused ? audioPlayer.play() : audioPlayer.pause();
-    $('#btnPlay').text(audioPlayer.paused ? "Play" : "Pause" );
+    $('#btnPlay').text(audioPlayer.paused ? "Play" : "Pause" );r
 });
 
 // Telegram.WebApp.MainButton.onClick(function() {
