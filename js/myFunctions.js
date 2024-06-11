@@ -10,7 +10,10 @@ function parseSongData(songData) {
     let transcript = songData.transcript.split(' ');
     let ru_transcript = songData.ru_transcript.split(' ');
     let ru_translate = songData.ru_translate.split(' ');
-    // ru_translate.map(function(str) { return str.replace(/_/g, ' ') });
+    text = text.map(function(str) { return str.replace(/_/g, ' ') });
+    transcript = transcript.map(function(str) { return str.replace(/_/g, ' ') });
+    ru_transcript = ru_transcript.map(function(str) { return str.replace(/_/g, ' ') });
+    ru_translate = ru_translate.map(function(str) { return str.replace(/_/g, ' ') });
     let resultArr = [];
     let timeShiftArr = [];
     let tsArr = [];
