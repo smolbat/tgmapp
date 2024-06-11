@@ -3,7 +3,8 @@ var noSleep = new NoSleep(); // необходим, чтобы телефон н
 const PHONETICS = 1;
 const TRANSCRIPTION = 2;
 let phoneticType = PHONETICS;
-let songName = 'ENG000001';
+// let songName = 'ENG000001';
+let songName = 'identify';
 let jsonSongDataPath = 'songs/titles/' + songName + '.json';
 let songAudioPath = 'songs/' + songName + '.mp3';
 let timeShiftArray = [];
@@ -32,6 +33,8 @@ audioPlayer.src = songAudioPath;
     let jsonResponse = await fetch(jsonSongDataPath);
     let songData = await jsonResponse.json();
     let result = parseSongData(songData);
+
+    console.log(result);
     parsedSongData = result.words;
     timeShiftArray = result.timeshift;
     // рисуем субтитры
