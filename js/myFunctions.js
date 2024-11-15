@@ -38,7 +38,7 @@ function parseSongData(songData) {
 
 // Функция рисования субтитров
 function drawSubtitles(songData, phonetic) {
-    let myHtmlElement = '<div>'+window.location.hash.slice(1)+'</div>';
+    let myHtmlElement = '<div>'+window.location.hash+'</div>';
     songData.forEach(function(rowSong) {
         myHtmlElement += drawOneRowSubtitles(rowSong, phonetic);
     });
