@@ -34,7 +34,7 @@ audioPlayer.src = songAudioPath;
     let songData = await jsonResponse.json();
     let result = parseSongData(songData);
 
-    console.log(result);
+    // console.log(result);
     parsedSongData = result.words;
     timeShiftArray = result.timeshift;
     // рисуем субтитры
