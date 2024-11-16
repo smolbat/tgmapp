@@ -38,8 +38,7 @@ function parseSongData(songData) {
 
 // Функция рисования субтитров
 function drawSubtitles(songData, phonetic) {
-    let myHtmlElement = '<div>'+window.location.href+'</div>';
-    // myHtmlElement += '<div>'+window.location.hash+'</div>';
+    let myHtmlElement = '<div>'+(new URL(window.location.href)).searchParams.get('tgWebAppStartParam')+'</div>';
     songData.forEach(function(rowSong) {
         myHtmlElement += drawOneRowSubtitles(rowSong, phonetic);
     });
