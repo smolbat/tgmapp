@@ -1,6 +1,5 @@
 // Фукция распарсивания json файла
 function parseSongData(songData) {
-    console.log("SongData - ", songData);
     let songArray = songData.words.map(function(elem) {
         return ({
             text: elem.text,
