@@ -1,0 +1,749 @@
+{
+    "id": "2952c700-8443-4281-8083-b203d6e52e8e",
+    "language_model": "assemblyai_default",
+    "acoustic_model": "assemblyai_default",
+    "language_code": "fr",
+    "status": "completed",
+    "audio_url": "https://cdn.assemblyai.com/upload/74bd7aa9-fb6f-479b-854f-83df565b3a5c",
+    "text": "Et_si tu n'existais_pas Dis-moi pour_quoi j'existerais Pour traîner dans un monde sans toi Sans espoir et sans regret Et si tu n'existais pas J'essaierais d'inventer l'amour Comme un peintre qui voit sous ses doigts Naître les couleurs du jour Et qui n'en revient pas Et si tu n'existais pas Dis-moi pour qui j'existerais Des passantes endormies dans mes bras Que je n'aimerais jamais Et si tu n'existais pas Je ne serais qu'un point de plus Dans ce monde qui vient et qui va Je me sentirais perdu J'aurais besoin de toi Et si tu n'existais pas Dis-moi comment j'existerais Je pourrais faire semblant d'être moi Mais je ne serais pas vrai Et si tu n'existais pas, je crois que je l'aurais trouvé Le secret de la vie, le pourquoi, simplement pour te créer Dis-moi pourquoi j'existerais Pour traîner dans un monde sans toi Sans espoir et sans regret Et si tu n'existes pas J'essaierais d'inventer l'amour Un peintre qui voit sous ses noix...",
+    "transcript": "ezi ty nɛgziste_pa di-mwa puɾkwa ʒɛgzistəɾe puɾ tɾ(e)ne dɑ̃z œ̃ mõdə sɑ̃ twa sɑ̃z ɛspwaɾe _ sɑ̃ ɾəgɾɛt e si ty nɛgziste pa ʒɛs(e)ɛɾe dɛ̃vɑ̃te lamuɾ kɔm œ̃ pɛ̃tɾə ki vwa su se dwa nɛtɾə le kulœɾ dy ʒuɾe е ki nɑ̃ ɾəvjə paz e si ty nɛgziste pa di-mwa puɾ ki ʒɛgzistəɾede _ pasɑ̃təz ɑ̃dɔɾmjə dɑ̃ me bɾa kə ʒə n(e)məɾe ʒamɛz e si ty nɛgziste pa ʒə nə səɾe kœ̃ pwɛ̃ də ply dɑ̃ sə mõdə ki vjət e ki va ʒə mə sɑ̃tiɾe pɛɾdy ʒɔɾe bəswɛ̃ də twa e si ty nɛgziste pa di-mwa kɔmə ʒɛgzistəɾe ʒə pure fɛɾə sɑ̃blɑ̃ dɛtɾə mwa me ʒə nə səɾe pavɾεe si ty nɛgziste pa, ʒə kɾwa kə ʒə lɔɾe tɾuve ləe də la vjə, lə puɾkwa, sɛ̃pləmə puɾ tə kɾee di-mwa puɾkwa ʒɛgzistəɾe puɾ tɾ(e)ne dɑ̃z‿ œ̃ mõdə sɑ̃ twa sɑ̃z‿ ɛspwaɾe sɑ̃ ɾəgɾɛt‿e si ty nɛgzistə pa ʒɛs(e)ɛɾe dɛ̃vɑ̃te lamuɾ œ̃ pɛ̃tɾə ki vwa suse nwaks... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . .",
+    "ru_transcript": "эзи ту нэгзистэ_па ди-мва пурква эгзистэрэ пур трэнэ доз а модэ са тва сас эспор _ са рэгрэ э си ту энгзисте па эсэре деватэ ламур кам у пэтра ки уа су сэ два нэтра ле кулер ду жур э ки на рэв'и па э си ту энгисте па ди-мва пур ква эгзистэрэ Д пассо адоми до ми бра кэ жо нэморэ жамвэ э си ту энгзисте па жэ нэ сэра ко пвэ дэ плю дэ сэ модэ ки в'ье э ки ва жэ мэ со-тиэ пэрду жорэ бэсвэ дэ тва э си ту энгзисте па di-mwa kɔmə ʒɛgzistəɾe ʒə pure fɛɾə sɑ̃blɑ̃ dɛtɾə mwa me ʒə nə səɾe pavɾεe si ty nɛgziste pa, ʒə kɾwa kə ʒə lɔɾe tɾuve ləe də la vjə, lə puɾkwa, sɛ̃pləmə puɾ tə kɾee di-mwa puɾkwa ʒɛgzistəɾe puɾ tɾ(e)ne dɑ̃z‿ œ̃ mõdə sɑ̃ twa sɑ̃z‿ ɛspwaɾe sɑ̃ ɾəgɾɛt‿e si ty nɛgzistə pa ʒɛs(e)ɛɾe dɛ̃vɑ̃te lamuɾ œ̃ pɛ̃tɾə ki vwa suse nwaks... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . .",
+    "ru_translate": "Если_бы тебя не_существовало Ответь_мне, для_чего существовать, чтобы скитаться по _ миру без тебя без надежды и без сожаления Если бы тебя не_существовало _ я_попытался_бы изобрести любовь как _ художник, который видит, как_под его пальцами рождаются _ краски _ дня и которые не повторяются _ и если_бы ты не_существовала, _ Ответь_мне, для чего существовать, _ пассии, засыпающие в моих объятиях чего я не_хотел_бы никогда Если бы тебя не_существовало _ Я не стал_бы ещё_бы_одним местом _ больше В этом мире, который приходит и который уходит Я себя чувствовал_бы потерянным Я_бы_получил потребность в тебе Если бы тебя не_существовало _ попытался изобрести любовь как художник, который видит, как рождаются краски дня, и которые этого не возвращает и если бы ты не существовал нет, Ответь_мне, для_чего существовать, спящие прохожие на моих руках, которых я бы никогда не полюбил и если бы ты не существовал я был бы еще одной точкой в этом мире, который приходит и уходит я чувствовал бы себя потерянным ты был бы нужен мне, и если бы ты не существовал Скажи мне, как я мог бы это сделать и если бы ты не существовал Скажи мне, как я бы существовал, я мог бы притворяться быть мной, но я не был бы настоящим и если бы ты не существовал, я верю, что нашел бы это секрет жизни, почему, просто чтобы создать тебя скажи мне, почему я существую, чтобы болтаться в мире без тебя без надежды и без сожаления и если бы ты не существовал, я был бы счастлив быть тобой, но я не был бы настоящим и если бы ты не существовал, я думаю, я нашел бы это секретом жизни, Я бы попытался представить любовь художником, который видит под своими орехами...  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . .",
+    "words":
+    [
+        {
+            "text": "Et_si",
+            "start": 10140,
+            "end": 10560,
+            "confidence": 0.502,
+            "speaker": null
+        },
+        {
+            "text": "tu",
+            "start": 10660,
+            "end": 11080,
+            "confidence": 0.78,
+            "speaker": null
+        },
+        {
+            "text": "n'existais_pas_",
+            "start": 11140,
+            "end": 13481,
+            "confidence": 0.863,
+            "speaker": null
+        },
+        {
+            "text": "Dis-moi",
+            "start": 13521,
+            "end": 14061,
+            "confidence": 0.618,
+            "speaker": null
+        },
+        {
+            "text": "pourquoi",
+            "start": 14081,
+            "end": 14661,
+            "confidence": 0.754,
+            "speaker": null
+        },
+        {
+            "text": "j'existerais_",
+            "start": 14681,
+            "end": 17681,
+            "confidence": 0.75,
+            "speaker": null
+        },
+        {
+            "text": "Pour",
+            "start": 19042,
+            "end": 19182,
+            "confidence": 0.498,
+            "speaker": null
+        },
+        {
+            "text": "traîner",
+            "start": 19222,
+            "end": 20202,
+            "confidence": 0.733,
+            "speaker": null
+        },
+        {
+            "text": "dans",
+            "start": 20222,
+            "end": 20482,
+            "confidence": 0.83,
+            "speaker": null
+        },
+        {
+            "text": "un",
+            "start": 20522,
+            "end": 20622,
+            "confidence": 0.521,
+            "speaker": null
+        },
+        {
+            "text": "monde",
+            "start": 20762,
+            "end": 21622,
+            "confidence": 0.8,
+            "speaker": null
+        },
+        {
+            "text": "sans",
+            "start": 21662,
+            "end": 21942,
+            "confidence": 0.763,
+            "speaker": null
+        },
+        {
+            "text": "toi_",
+            "start": 21982,
+            "end": 23523,
+            "confidence": 0.811,
+            "speaker": null
+        },
+        {
+            "text": "Sans",
+            "start": 23543,
+            "end": 23843,
+            "confidence": 0.92,
+            "speaker": null
+        },
+        {
+            "text": "espoir",
+            "start": 23903,
+            "end": 24483,
+            "confidence": 0.899,
+            "speaker": null
+        },
+        {
+            "text": "et",
+            "start": 24543,
+            "end": 24723,
+            "confidence": 0.808,
+            "speaker": null
+        },
+        {
+            "text": "sans",
+            "start": 24743,
+            "end": 25423,
+            "confidence": 0.79,
+            "speaker": null
+        },
+        {
+            "text": "regrets_",
+            "start": 25463,
+            "end": 28463,
+            "confidence": 0.692,
+            "speaker": null
+        },
+        {
+            "text": "Et",
+            "start": 29704,
+            "end": 29864,
+            "confidence": 0.836,
+            "speaker": null
+        },
+        {
+            "text": "si",
+            "start": 29904,
+            "end": 30224,
+            "confidence": 0.715,
+            "speaker": null
+        },
+        {
+            "text": "tu",
+            "start": 30244,
+            "end": 30544,
+            "confidence": 0.686,
+            "speaker": null
+        },
+        {
+            "text": "n'existais",
+            "start": 30604,
+            "end": 31684,
+            "confidence": 0.815,
+            "speaker": null
+        },
+        {
+            "text": "pas_",
+            "start": 31724,
+            "end": 32964,
+            "confidence": 0.87,
+            "speaker": null
+        },
+        {
+            "text": "J'essaierais",
+            "start": 33004,
+            "end": 33825,
+            "confidence": 0.772,
+            "speaker": null
+        },
+        {
+            "text": "d'inventer",
+            "start": 33865,
+            "end": 35085,
+            "confidence": 0.861,
+            "speaker": null
+        },
+        {
+            "text": "l'amour_",
+            "start": 35105,
+            "end": 35545,
+            "confidence": 0.432,
+            "speaker": null
+        },
+        {
+            "text": "Comme",
+            "start": 38348,
+            "end": 38548,
+            "confidence": 0.287,
+            "speaker": null
+        },
+        {
+            "text": "un",
+            "start": 38568,
+            "end": 39028,
+            "confidence": 0.804,
+            "speaker": null
+        },
+        {
+            "text": "peintre",
+            "start": 39068,
+            "end": 39909,
+            "confidence": 0.663,
+            "speaker": null
+        },
+        {
+            "text": "qui",
+            "start": 39929,
+            "end": 40189,
+            "confidence": 0.698,
+            "speaker": null
+        },
+        {
+            "text": "voit",
+            "start": 40229,
+            "end": 40829,
+            "confidence": 0.776,
+            "speaker": null
+        },
+        {
+            "text": "sous",
+            "start": 40849,
+            "end": 41109,
+            "confidence": 0.8,
+            "speaker": null
+        },
+        {
+            "text": "ses",
+            "start": 41149,
+            "end": 41349,
+            "confidence": 0.683,
+            "speaker": null
+        },
+        {
+            "text": "doigts_",
+            "start": 41369,
+            "end": 42930,
+            "confidence": 0.533,
+            "speaker": null
+        },
+        {
+            "text": "Naître",
+            "start": 43050,
+            "end": 43550,
+            "confidence": 0.754,
+            "speaker": null
+        },
+        {
+            "text": "les",
+            "start": 43590,
+            "end": 43770,
+            "confidence": 0.491,
+            "speaker": null
+        },
+        {
+            "text": "couleurs",
+            "start": 43830,
+            "end": 44211,
+            "confidence": 0.34,
+            "speaker": null
+        },
+        {
+            "text": "du",
+            "start": 44771,
+            "end": 44911,
+            "confidence": 0.683,
+            "speaker": null
+        },
+        {
+            "text": "jour_",
+            "start": 45071,
+            "end": 47512,
+            "confidence": 0.248,
+            "speaker": null
+        },
+        {
+            "text": "Et",
+            "start": 47552,
+            "end": 47752,
+            "confidence": 0.786,
+            "speaker": null
+        },
+        {
+            "text": "qui",
+            "start": 47812,
+            "end": 48012,
+            "confidence": 0.608,
+            "speaker": null
+        },
+        {
+            "text": "n'en",
+            "start": 48032,
+            "end": 49973,
+            "confidence": 0.802,
+            "speaker": null
+        },
+        {
+            "text": "revient",
+            "start": 50053,
+            "end": 53053,
+            "confidence": 0.75,
+            "speaker": null
+        },
+        {
+            "text": "pas_",
+            "start": 53855,
+            "end": 53955,
+            "confidence": 0.224,
+            "speaker": null
+        },
+        {
+            "text": "Et",
+            "start": 54035,
+            "end": 54115,
+            "confidence": 0.331,
+            "speaker": null
+        },
+        {
+            "text": "si",
+            "start": 54155,
+            "end": 54435,
+            "confidence": 0.685,
+            "speaker": null
+        },
+        {
+            "text": "tu",
+            "start": 54455,
+            "end": 54555,
+            "confidence": 0.63,
+            "speaker": null
+        },
+        {
+            "text": "n'existais",
+            "start": 54695,
+            "end": 55896,
+            "confidence": 0.757,
+            "speaker": null
+        },
+        {
+            "text": "pas_",
+            "start": 55936,
+            "end": 57156,
+            "confidence": 0.772,
+            "speaker": null
+        },
+        {
+            "text": "Dis-moi",
+            "start": 57196,
+            "end": 57756,
+            "confidence": 0.643,
+            "speaker": null
+        },
+        {
+            "text": "pour",
+            "start": 57776,
+            "end": 58016,
+            "confidence": 0.837,
+            "speaker": null
+        },
+        {
+            "text": "qui",
+            "start": 58056,
+            "end": 58337,
+            "confidence": 0.791,
+            "speaker": null
+        },
+        {
+            "text": "j'existerais_",
+            "start": 58377,
+            "end": 61377,
+            "confidence": 0.735,
+            "speaker": null
+        },
+        {
+            "text": "Des",
+            "start": 62698,
+            "end": 62939,
+            "confidence": 0.525,
+            "speaker": null
+        },
+        {
+            "text": "passantes",
+            "start": 62979,
+            "end": 63839,
+            "confidence": 0.761,
+            "speaker": null
+        },
+        {
+            "text": "endormies",
+            "start": 63919,
+            "end": 64998,
+            "confidence": 0.649,
+            "speaker": null
+        },
+        {
+            "text": "dans",
+            "start": 65019,
+            "end": 65379,
+            "confidence": 0.538,
+            "speaker": null
+        },
+        {
+            "text": "mes",
+            "start": 65420,
+            "end": 65640,
+            "confidence": 0.519,
+            "speaker": null
+        },
+        {
+            "text": "bras_",
+            "start": 65680,
+            "end": 65820,
+            "confidence": 0.316,
+            "speaker": null
+        },
+        {
+            "text": "Que",
+            "start": 67277,
+            "end": 68157,
+            "confidence": 0.823,
+            "speaker": null
+        },
+        {
+            "text": "je",
+            "start": 68297,
+            "end": 68417,
+            "confidence": 0.59,
+            "speaker": null
+        },
+        {
+            "text": "n'aimerais",
+            "start": 68778,
+            "end": 71778,
+            "confidence": 0.568,
+            "speaker": null
+        },
+        {
+            "text": "jamais_",
+            "start": 72699,
+            "end": 73239,
+            "confidence": 0.459,
+            "speaker": null
+        },
+        {
+            "text": "Et",
+            "start": 73299,
+            "end": 73499,
+            "confidence": 0.765,
+            "speaker": null
+        },
+        {
+            "text": "si",
+            "start": 73539,
+            "end": 73699,
+            "confidence": 0.739,
+            "speaker": null
+        },
+        {
+            "text": "tu",
+            "start": 73759,
+            "end": 74039,
+            "confidence": 0.788,
+            "speaker": null
+        },
+        {
+            "text": "n'existais",
+            "start": 74099,
+            "end": 75320,
+            "confidence": 0.775,
+            "speaker": null
+        },
+        {
+            "text": "pas_",
+            "start": 75360,
+            "end": 76580,
+            "confidence": 0.796,
+            "speaker": null
+        },
+        {
+            "text": "Je",
+            "start": 76620,
+            "end": 76860,
+            "confidence": 0.733,
+            "speaker": null
+        },
+        {
+            "text": "ne",
+            "start": 76880,
+            "end": 77120,
+            "confidence": 0.709,
+            "speaker": null
+        },
+        {
+            "text": "serais",
+            "start": 77160,
+            "end": 77701,
+            "confidence": 0.586,
+            "speaker": null
+        },
+        {
+            "text": "qu'un",
+            "start": 77741,
+            "end": 78041,
+            "confidence": 0.516,
+            "speaker": null
+        },
+        {
+            "text": "point",
+            "start": 78101,
+            "end": 78701,
+            "confidence": 0.551,
+            "speaker": null
+        },
+        {
+            "text": "de",
+            "start": 78741,
+            "end": 79041,
+            "confidence": 0.708,
+            "speaker": null
+        },
+        {
+            "text": "plus_",
+            "start": 79061,
+            "end": 82061,
+            "confidence": 0.597,
+            "speaker": null
+        },
+        {
+            "text": "Dans",
+            "start": 82142,
+            "end": 82362,
+            "confidence": 0.684,
+            "speaker": null
+        },
+        {
+            "text": "ce",
+            "start": 82402,
+            "end": 82622,
+            "confidence": 0.788,
+            "speaker": null
+        },
+        {
+            "text": "monde",
+            "start": 82682,
+            "end": 83503,
+            "confidence": 0.734,
+            "speaker": null
+        },
+        {
+            "text": "qui",
+            "start": 83543,
+            "end": 83803,
+            "confidence": 0.672,
+            "speaker": null
+        },
+        {
+            "text": "vient",
+            "start": 83843,
+            "end": 84543,
+            "confidence": 0.662,
+            "speaker": null
+        },
+        {
+            "text": "et",
+            "start": 84623,
+            "end": 84743,
+            "confidence": 0.671,
+            "speaker": null
+        },
+        {
+            "text": "qui",
+            "start": 84783,
+            "end": 85023,
+            "confidence": 0.53,
+            "speaker": null
+        },
+        {
+            "text": "va_",
+            "start": 85063,
+            "end": 86604,
+            "confidence": 0.82,
+            "speaker": null
+        },
+        {
+            "text": "Je",
+            "start": 86624,
+            "end": 86924,
+            "confidence": 0.814,
+            "speaker": null
+        },
+        {
+            "text": "me",
+            "start": 86964,
+            "end": 87184,
+            "confidence": 0.688,
+            "speaker": null
+        },
+        {
+            "text": "sentirais",
+            "start": 87224,
+            "end": 88404,
+            "confidence": 0.609,
+            "speaker": null
+        },
+        {
+            "text": "perdu_",
+            "start": 88424,
+            "end": 91085,
+            "confidence": 0.662,
+            "speaker": null
+        },
+        {
+            "text": "J'aurais",
+            "start": 91125,
+            "end": 92466,
+            "confidence": 0.548,
+            "speaker": null
+        },
+        {
+            "text": "besoin",
+            "start": 92486,
+            "end": 93306,
+            "confidence": 0.578,
+            "speaker": null
+        },
+        {
+            "text": "de",
+            "start": 93326,
+            "end": 93486,
+            "confidence": 0.707,
+            "speaker": null
+        },
+        {
+            "text": "toi_",
+            "start": 93546,
+            "end": 93666,
+            "confidence": 0.282,
+            "speaker": null
+        },
+        {
+            "text": "Et",
+            "start": 108583,
+            "end": 108663,
+            "confidence": 0.424,
+            "speaker": null
+        },
+        {
+            "text": "si",
+            "start": 108883,
+            "end": 111883,
+            "confidence": 0.84,
+            "speaker": null
+        },
+        {
+            "text": "tu",
+            "start": 117308,
+            "end": 118069,
+            "confidence": 0.889,
+            "speaker": null
+        },
+        {
+            "text": "n'existais",
+            "start": 118269,
+            "end": 118909,
+            "confidence": 0.476,
+            "speaker": null
+        },
+        {
+            "text": "pas_",
+            "start": 118929,
+            "end": 120150,
+            "confidence": 0.763,
+            "speaker": null
+        },
+        {
+            "text": "Dis-moi",
+            "start": 120170,
+            "end": 120691,
+            "confidence": 0.499,
+            "speaker": null
+        },
+        {
+            "text": "comment",
+            "start": 120711,
+            "end": 121331,
+            "confidence": 0.516,
+            "speaker": null
+        }
+    ],
+    "utterances": null,
+    "confidence": 0.810453333333333,
+    "audio_duration": 161,
+    "punctuate": true,
+    "format_text": true,
+    "dual_channel": null,
+    "webhook_url": null,
+    "webhook_status_code": null,
+    "speed_boost": false,
+    "auto_highlights_result": null,
+    "auto_highlights": false,
+    "audio_start_from": null,
+    "audio_end_at": null,
+    "word_boost":
+    [],
+    "boost_param": null,
+    "filter_profanity": false,
+    "redact_pii": false,
+    "redact_pii_audio": false,
+    "redact_pii_audio_quality": null,
+    "redact_pii_policies": null,
+    "redact_pii_sub": null,
+    "speaker_labels": false,
+    "content_safety": false,
+    "iab_categories": false,
+    "content_safety_labels":
+    {
+        "status": "unavailable",
+        "results":
+        [],
+        "summary":
+        {}
+    },
+    "iab_categories_result":
+    {
+        "status": "unavailable",
+        "results":
+        [],
+        "summary":
+        {}
+    },
+    "disfluencies": false,
+    "sentiment_analysis": false,
+    "auto_chapters": false,
+    "chapters": null,
+    "sentiment_analysis_results": null,
+    "entity_detection": false,
+    "entities": null
+}

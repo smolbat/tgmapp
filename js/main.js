@@ -5,7 +5,8 @@ const TRANSCRIPTION = 2;
 let phoneticType = PHONETICS;
 // let songName = 'ENG000001';
 // let songName = 'rooney';
-let songName = (new URL(window.location.href)).searchParams.get('tgWebAppStartParam');
+let songName = 'FRA4';
+// let songName = (new URL(window.location.href)).searchParams.get('tgWebAppStartParam');
 let jsonSongDataPath = 'songs/titles/' + songName + '.json';
 let songAudioPath = 'songs/' + songName + '.mp3';
 let timeShiftArray = [];
@@ -34,8 +35,6 @@ audioPlayer.src = songAudioPath;
     let jsonResponse = await fetch(jsonSongDataPath);
     let songData = await jsonResponse.json();
     let result = parseSongData(songData);
-
-    // console.log(result);
     parsedSongData = result.words;
     timeShiftArray = result.timeshift;
     // рисуем субтитры
@@ -62,7 +61,9 @@ $('#btnPhonetics').click(function() {
 $('#mySongList').click(function(event) {
     let targetElement = event.target.closest('li');
     selectedRow = $(targetElement).index();
-    audioPlayer.currentTime = timeShiftArray[selectedRow][0] / 1000;
+    // Если не добавить 0.001, то при выборе строки выделяется предыдущая,
+    // так как время на мгновение меньше, чем надо чтобы выделилась текущая строка
+    audioPlayer.currentTime = timeShiftArray[selectedRow][0] / 1000 + 0.001;
     selectRow(selectedRow);
 });
 
